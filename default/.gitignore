@@ -1,6 +1,7 @@
 /sandbox/
 /logs/
 /public/tests
+subtask-pandoc.json
 
 #Ignoring the extension-less executable binary in public/cpp
 /public/cpp/*
